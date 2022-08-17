@@ -9,5 +9,5 @@ But, it has a promising future to make it useful in high-dimensional equation.
 ```
 @KozakHou, email:kozak20010716@g.ncu.edu.tw
            Tel : +886-905804898
-           Affiliation : National Central University
+           Affiliation : Department of Space Science and Engineering - National Central University 
 ```
